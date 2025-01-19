@@ -1,11 +1,11 @@
 # Rock Paper Scissors Minus One 🎮
 
 ## Overview
-**Rock Paper Scissors Minus One** is a web-based game inspired by the intriguing Rock-Paper-Scissors game concept from **Squid Game Season 2**. This project combines strategy and fun, with a unique twist—players lose one of their two choices during the game, adding an extra layer of challenge. The game is accompanied by the iconic background music from Squid Game.
+**Rock Paper Scissors Minus One** is a web-based game inspired by the intriguing Rock-Paper-Scissors game concept from **Squid Game 2**. This project combines strategy and fun, with a unique twist—players lose one of their two choices during the game, adding an extra layer of challenge. The game is accompanied by the iconic background music from Squid Game.
 
 ## Features
 - 🟢 **Dynamic Gameplay**: Select your moves while the opponent randomly selects theirs, just like in the show!
-- 🎵 **Immersive Music**: The game features background music from Squid Game that plays as soon as you open the webpage and restarts if refreshed.
+- 🎵 **Immersive Music**: The game background music from Squid Game that plays as soon as you start playing game.
 - 🔄 **Replayable Fun**: Play as many rounds as you want—the music and excitement never stop!
 - ✨ **Stylized UI**: A visually appealing user interface to match the game's theme.
 
